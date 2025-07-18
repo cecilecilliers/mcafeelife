@@ -6,7 +6,7 @@ How to Install, Download or Activate Your McAfee Product Subscription Already Pu
     <a class="reference external image-reference" href="#">
         <img alt="" class="align-center" src="_images/Get-Started-Now.png" style="width: 4px; height: 2px;" />
     </a>
-Have you recently bought McAfee and are now wondering how to set it up properly? Whether you purchased McAfee online or from a retail store, this guide will show you how to **Install McAfee already purchased**, where to **enter your 25-digit McAfee activation code**, and how to go to `www.mcafee.com/activate download & install <https://www.mcafee.com/activate>`_ the correct product on your device.
+Have you recently bought McAfee and are now wondering how to set it up properly? Whether you purchased McAfee online or from a retail store, this guide will show you how to **Install McAfee already purchased**, where to **enter your 25-digit McAfee activation code**, and how to go to www.mcafee.com/activate download & install the correct product on your device.
 
 .. raw:: html
 
